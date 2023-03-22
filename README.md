@@ -86,6 +86,8 @@ This repository house companies who are known to hire directly from Africa and s
 
 42. <h4><a href="https://www.itssglobal.com/index.php/recruitment/">ITSS</a></h4><p> Information Technologies Solutions & Services (ITSS) develops and delivers banking technology (Temenos Transact/ T24) solutions and services for banks and financial institutions all around the world. </p><p><strong>Location- </strong> Geneva, Switzerland | <small>Global Remote</small> </p>
 
+42.  <h4><a href="https://jobs.intuit.com/"> INTUIT </a></h4> <p>Intuit is the global financial technology platform that powers prosperity for the people and communities we serve. With more than 100 million customers worldwide using TurboTax, Credit Karma, QuickBooks, and Mailchimp, we believe that everyone should have the opportunity to prosper. </p> <p> <strong>Location- </strong> California, USA | <small> Global Remote </small> </p>
+
 ## Others
 
 1. https://relocate.me/search
